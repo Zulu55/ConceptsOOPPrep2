@@ -1,5 +1,8 @@
 ﻿namespace ConceptsOOPPrep
 {
+    /// <summary>
+    /// Represents a date
+    /// </summary>
     public class Date
     {
         #region Attributes
